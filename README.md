@@ -1,4 +1,4 @@
-# Hello! I'm Ian, Welcome to my GitHub profile! 👋
+# Hello! I'm Ian, Welcome to my GitHub profile!!
 
 ## About Me
 I'm an Applied Math and Computer Science Student at ICMC USP, passionate about working on hard problems and building the future. I have a keen interest in AI and computer science, particularly in using smarter systems to push the boundaries of human knowledge and achievements.
