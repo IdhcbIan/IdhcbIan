@@ -6,7 +6,7 @@ I'm an Applied Math and Computer Science Student at ICMC USP, passionate about w
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
 
 ## Connect with Me
-- [Personal Website](iansmainframe.tech)
+- [Personal Website](http://iansmainframe.tech)
 - [X.com](https://x.com/IIdhcb)
 
 ## Challenge Me
